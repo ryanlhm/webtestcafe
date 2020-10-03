@@ -4,7 +4,7 @@
   "description": "Mencoba Testcaffe",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/testcafe chrome test/"
+    "test": "node_modules/.bin/testcafe firefox test/"
   },
   "keywords": [
     "atlas",
