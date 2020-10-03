@@ -1,0 +1,19 @@
+{
+  "name": "testcafelhm",
+  "version": "1.0.0",
+  "description": "Mencoba Testcaffe",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/testcafe chrome test/"
+  },
+  "keywords": [
+    "atlas",
+    "testcaffe",
+    "automation"
+  ],
+  "author": "ryanlhm",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.9.4"
+  }
+}
